@@ -1,4 +1,5 @@
 const User = require('./user.model');
+const taskService = require('../tasks/task.service');
 
 const users = {
   '1': { id: 1, name: 'vasya', login: 'vasi', password: 'asdf' }
@@ -17,13 +18,13 @@ function findUser(id) {
   return users[id];
 }
 function updateUser(id, newUserData) {
-  const userData = users[id];
-  users[id] = { ...userData, ...newUserData };
+  users[id] = { ...users[id], ...newUserData };
   return users[id];
 }
 function deleteUser(id) {
   if (users[id]) {
     delete users[id];
+    taskService.unassignUserTasks(id);
     return true;
   }
   return false;

@@ -1,4 +1,5 @@
 const Board = require('./board.model');
+const taskService = require('../tasks/task.service');
 const boards = {
   '2': {
     id: '2',
@@ -26,6 +27,7 @@ function updateBoard(id, boardData) {
 function deleteBoard(id) {
   if (boards[id]) {
     delete boards[id];
+    taskService.deleteBoardTasks(id);
     return true;
   }
   return false;
