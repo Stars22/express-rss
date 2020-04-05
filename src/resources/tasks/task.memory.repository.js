@@ -11,8 +11,18 @@ const tasks = {
     boardId: '1b'
   }
 };
-const userRefs = {};
-const boardRefs = {};
+class CreateRef {
+  addRefId(id, ref) {
+    if (this[id]) {
+      this[id].push(ref);
+    } else {
+      this[id] = [ref];
+    }
+  }
+}
+
+const userRefs = new CreateRef();
+const boardRefs = new CreateRef();
 
 function getAll() {
   return Object.values(tasks);
@@ -20,14 +30,13 @@ function getAll() {
 function getTask(id) {
   return tasks[id];
 }
+
 function createTask(taskData) {
   const { userId, boardId } = taskData;
   const task = new Task(taskData);
   tasks[task.id] = task;
-  const userRef = userRefs[userId];
-  userRefs[userId] = userRef ? [...userRef, task.id] : [task.id];
-  const boardRef = boardRefs[boardId];
-  boardRefs[boardId] = boardRef ? [...boardRef, task.id] : [task.id];
+  userRefs.addRefId(userId, task.id);
+  boardRefs.addRefId(boardId, task.id);
   return task;
 }
 function updateTask(id, taskData) {
