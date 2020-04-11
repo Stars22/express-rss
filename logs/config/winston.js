@@ -32,9 +32,6 @@ const logger = createLogger({
   exitOnError: false
 });
 
-logger.stream = {
-  write: message => logger.log('info', message)
-};
 // Uncaught Exceptions are handled by winston without process.on ^^^ see code above
 process.on('unhandledRejection', reason => {
   logger.error(reason.message);

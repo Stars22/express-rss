@@ -1,10 +1,2 @@
-
 {"message":"Oops!","level":"error"}
-
-{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status undefined","level":"error"}
-{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status undefined","level":"error"}
-{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status undefined","level":"error"}
-{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status undefined","level":"error"}
-{"message":"   Error message: User not found. Status undefined","level":"error"}
-{"message":"   Error message: User not found. Status 500","level":"error"}
 {"message":"   Error message: Not Found. Status 404","level":"error"}
