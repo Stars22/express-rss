@@ -7,4 +7,10 @@ const logger = morgan('{"url": ":url", "body": ":body", "query": ":query"}', {
   stream: winston.stream
 });
 
-module.exports = logger;
+function logError(err) {
+  winston.error({
+    message: `Error message: ${err.message}. Status ${err.status}`
+  });
+}
+
+module.exports = { logger, logError };

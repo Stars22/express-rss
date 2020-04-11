@@ -1,4 +1,4 @@
-const winston = require('winston');
+const { createLogger, format, transports } = require('winston');
 const path = require('path');
 
 const options = {
@@ -6,28 +6,28 @@ const options = {
     level: 'info',
     filename: path.join(__dirname, '../combined.log'),
     maxsize: 1048576,
-    colorize: false
-  },
-  console: {
-    colorize: true
+    format: format.combine(format.uncolorize(), format.json())
   }
 };
 
-const logger = winston.createLogger({
+const logger = createLogger({
+  level: 'silly',
+  format: format.combine(format.colorize(), format.cli()),
   transports: [
-    new winston.transports.File(options.file),
-    new winston.transports.Console(options.console),
-    new winston.transports.File({
+    new transports.File(options.file),
+    new transports.Console(),
+    new transports.File({
+      ...options.file,
       level: 'error',
       filename: path.join(__dirname, '../rejections.log')
     })
   ],
   exceptionHandlers: [
-    new winston.transports.File({
+    new transports.File({
       ...options.file,
       filename: path.join(__dirname, '../exceptions.log')
     }),
-    new winston.transports.Console(options.console)
+    new transports.Console()
   ],
   exitOnError: false
 });
@@ -35,7 +35,7 @@ const logger = winston.createLogger({
 logger.stream = {
   write: message => logger.log('info', message)
 };
-// Uncaught Exceptions are handled by winston
+// Uncaught Exceptions are handled by winston without process.on ^^^ see code above
 process.on('unhandledRejection', reason => {
   logger.error(reason.message);
 });
