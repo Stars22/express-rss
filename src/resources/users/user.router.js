@@ -1,18 +1,19 @@
 const router = require('express').Router();
 const User = require('./user.model');
 const usersService = require('./user.service');
+const { catchError } = require('../../common/utils');
 
 router.route('/').get(async (req, res) => {
   const users = await usersService.getAll();
   res.json(users.map(User.toResponse));
 });
-router.get('/:id', (req, res) => {
-  const user = usersService.findUser(req.params.id);
-  if (user) {
+router.get(
+  '/:id',
+  catchError(async (req, res) => {
+    const user = await usersService.findUser(req.params.id);
     return res.json(User.toResponse(user));
-  }
-  res.status(404).json({ message: 'user was not found' });
-});
+  })
+);
 router.post('/', (req, res) => {
   const { name, login, password } = req.body;
   const user = usersService.createUser(name, login, password);

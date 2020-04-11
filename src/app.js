@@ -29,8 +29,9 @@ app.use('/boards', boardRouter);
 app.use((req, res, next) => next(createError(404)));
 
 app.use((err, req, res, next) => {
+  err.status = err.status || 500;
   logError(err);
-  res.status(err.status || 500).json({ error: err.message });
+  res.status(err.status).json({ error: err.message });
 });
 
 module.exports = app;
