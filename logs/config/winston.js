@@ -32,9 +32,4 @@ const logger = createLogger({
   exitOnError: false
 });
 
-// Uncaught Exceptions are handled by winston without process.on ^^^ see code above
-process.on('unhandledRejection', reason => {
-  logger.error(reason.message);
-});
-
 module.exports = logger;

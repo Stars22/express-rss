@@ -1,2 +1,7 @@
 {"message":"Oops!","level":"error"}
 {"level":"info","message":"    {\"url\": \"/hjkhgghjg\", \"body\": \"{\"hello\":\"dfsfsf\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users/1\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"level":"info","message":"    {\"url\": \"/usfhgsdhdhds\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"level":"info","message":"    {\"url\": \"/usfhgsdhdhds\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
