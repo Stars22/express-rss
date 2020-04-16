@@ -1,9 +1,13 @@
 const router = require('express').Router({ mergeParams: true });
 const taskService = require('./task.service');
+const { catchError } = require('../../common/utils');
 
-router.get('/', (req, res) => {
-  res.json(taskService.getAll());
-});
+router.get(
+  '/',
+  catchError(async (req, res) => {
+    res.json(await taskService.getAll());
+  })
+);
 router.get('/:id', (req, res) => {
   const task = taskService.getTask(req.params.id);
   if (task) {
@@ -18,7 +22,6 @@ router.post('/', (req, res) => {
 });
 router.put('/:id', (req, res) => {
   const { id, boardId } = req.params;
-  // console.log(req.body);
   res.json(taskService.updateTask(id, { ...req.body, boardId }));
 });
 

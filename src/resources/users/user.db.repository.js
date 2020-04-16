@@ -1,27 +1,20 @@
 const User = require('./user.model');
 
 const getAll = () => {
-  return User.find();
+  return User.find({}, { password: 0 });
 };
 
 function createUser(name, login, password) {
   const user = new User({ name, login, password });
-  user.save();
-  return user;
+  return user.save();
 }
 function findUser(id) {
-  return User.findById(id);
+  return User.findById(id, { password: 0 });
 }
 function updateUser(id, newUserData) {
-  users[id] = { ...users[id], ...newUserData };
-  return users[id];
+  return User.findByIdAndUpdate(id, newUserData, { upsert: false });
 }
 function deleteUser(id) {
-  if (users[id]) {
-    delete users[id];
-    taskService.unassignUserTasks(id);
-    return true;
-  }
-  return false;
+  return User.findByIdAndDelete(id);
 }
 module.exports = { getAll, createUser, findUser, updateUser, deleteUser };

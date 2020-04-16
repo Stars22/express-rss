@@ -2,19 +2,24 @@ const uuid = require('uuid');
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
-const UserSchema = new Schema({
-  id: {
-    type: String,
-    default: uuid
+const UserSchema = new Schema(
+  {
+    _id: {
+      type: String,
+      default: uuid
+    },
+    name: String,
+    login: String,
+    password: String
   },
-  name: String,
-  login: String,
-  password: String
-});
+  { versionKey: false }
+);
+// password exclusion from response is also implemented by mongodb projection
 UserSchema.statics.toResponse = user => {
   const { id, name, login } = user;
   return { id, name, login };
 };
+
 // class User {
 //   constructor({
 //     id = uuid(),
