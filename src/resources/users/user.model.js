@@ -1,8 +1,9 @@
 const uuid = require('uuid');
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
+const taskService = require('../tasks/task.service');
 
-const UserSchema = new Schema(
+const userSchema = new Schema(
   {
     _id: {
       type: String,
@@ -15,10 +16,27 @@ const UserSchema = new Schema(
   { versionKey: false }
 );
 // password exclusion from response is also implemented by mongodb projection
-UserSchema.statics.toResponse = user => {
+userSchema.statics.toResponse = user => {
   const { id, name, login } = user;
   return { id, name, login };
 };
+
+userSchema.method('toJSON', function toJson() {
+  const { _id, ...object } = this.toObject();
+  object.id = _id;
+  return object;
+});
+userSchema.post(
+  'deleteOne',
+  { document: true, query: false },
+  function updateTasks() {
+    taskService.updateUserTasks(this._id);
+  }
+);
+
+const User = mongoose.model('User', userSchema);
+
+module.exports = User;
 
 // class User {
 //   constructor({
@@ -38,5 +56,3 @@ UserSchema.statics.toResponse = user => {
 //     return { id, name, login };
 //   }
 // }
-
-module.exports = mongoose.model('User', UserSchema);

@@ -1,7 +1,8 @@
 const User = require('./user.model');
+const createError = require('http-errors');
 
 const getAll = () => {
-  return User.find({}, { password: 0 });
+  return User.find({}, { password: 0 }).exec();
 };
 
 function createUser(name, login, password) {
@@ -9,12 +10,16 @@ function createUser(name, login, password) {
   return user.save();
 }
 function findUser(id) {
-  return User.findById(id, { password: 0 });
+  return User.findById(id, { password: 0 }).exec();
 }
 function updateUser(id, newUserData) {
-  return User.findByIdAndUpdate(id, newUserData, { upsert: false });
+  return User.findByIdAndUpdate(id, newUserData, { upsert: false }).exec();
 }
-function deleteUser(id) {
-  return User.findByIdAndDelete(id);
+async function deleteUser(id) {
+  const user = await User.findById(id);
+  if (!user) {
+    throw createError(404, 'User was not found');
+  }
+  return user.deleteOne();
 }
 module.exports = { getAll, createUser, findUser, updateUser, deleteUser };

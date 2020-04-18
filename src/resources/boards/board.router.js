@@ -1,31 +1,50 @@
 const router = require('express').Router();
 const boardService = require('./board.service');
+const { catchError } = require('../../common/utils');
+const createError = require('http-errors');
 
-router.get('/', (req, res) => {
-  res.json(boardService.getAll());
-});
-router.get('/:id', (req, res) => {
-  const board = boardService.findBoard(req.params.id);
-  if (board) {
-    return res.json(board);
-  }
-  res.status(404).json({ message: 'board was not found' });
-});
-router.post('/', (req, res) => {
-  const { title, columns } = req.body;
-  const newBoard = boardService.createBoard(title, columns);
-  res.json(newBoard);
-});
-router.put('/:id', (req, res) => {
-  const updatedBoard = boardService.updateBoard(req.params.id, req.body);
-  res.json(updatedBoard);
-});
-router.delete('/:id', (req, res) => {
-  const isDeleted = boardService.deleteBoard(req.params.id);
-  if (isDeleted) {
-    return res.status(204).end();
-  }
-  res.status(404).end();
-});
+router.get(
+  '/',
+  catchError(async (req, res) => {
+    res.json(await boardService.getAll());
+  })
+);
+router.get(
+  '/:id',
+  catchError(async (req, res, next) => {
+    const board = await boardService.findBoard(req.params.id);
+    if (board) {
+      return res.json(board);
+    }
+    next(createError(404));
+  })
+);
+router.post(
+  '/',
+  catchError(async (req, res) => {
+    const { title, columns } = req.body;
+    const newBoard = await await boardService.createBoard(title, columns);
+    res.json(newBoard);
+  })
+);
+router.put(
+  '/:id',
+  catchError(async (req, res) => {
+    const updatedBoard = await boardService.updateBoard(
+      req.params.id,
+      req.body
+    );
+    res.json(updatedBoard);
+  })
+);
+router.delete(
+  '/:id',
+  catchError(async (req, res) => {
+    const isDeleted = await boardService.deleteBoard(req.params.id);
+    if (isDeleted) {
+      res.json().status(204);
+    }
+  })
+);
 
 module.exports = router;

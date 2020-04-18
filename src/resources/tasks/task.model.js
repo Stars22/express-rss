@@ -1,18 +1,29 @@
 const uuid = require('uuid');
 const mongoose = require('mongoose');
 
-const taskSchema = mongoose.Schema({
-  _id: {
-    type: String,
-    default: uuid
+const taskSchema = mongoose.Schema(
+  {
+    _id: {
+      type: String,
+      default: uuid
+    },
+    title: String,
+    order: Number,
+    description: String,
+    userId: String,
+    columnId: String,
+    boardId: String
   },
-  title: String,
-  order: Number,
-  description: String,
-  userId: String,
-  columnId: String,
-  boardId: String
+  { versionKey: false }
+);
+
+taskSchema.method('toJSON', function toJson() {
+  const { _id, ...object } = this.toObject();
+  object.id = _id;
+  return object;
 });
+
+module.exports = mongoose.model('Task', taskSchema);
 
 // class Task {
 //   constructor(taskData) {
@@ -26,5 +37,3 @@ const taskSchema = mongoose.Schema({
 //     this.boardId = boardId;
 //   }
 // }
-
-module.exports = mongoose.model('Task', taskSchema);

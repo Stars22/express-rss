@@ -4,7 +4,7 @@ function getAll() {
   return Task.find();
 }
 function getTask(id) {
-  return Task.findById(id);
+  return Task.findById(id).exec();
 }
 
 function createTask(taskData) {
@@ -12,10 +12,17 @@ function createTask(taskData) {
   return task.save();
 }
 function updateTask(id, taskData) {
-  return Task.findByIdAndUpdate(id, taskData, { upsert: false });
+  return Task.findByIdAndUpdate(id, taskData, { upsert: false }).exec();
 }
 function deleteTask(id) {
   return Task.findByIdAndDelete(id);
+}
+function deleteBoardTasks(id) {
+  return Task.deleteMany({ boardId: id }).exec();
+}
+
+function updateUserTasks(id) {
+  return Task.updateMany({ userId: id }, { userId: null }).exec();
 }
 
 module.exports = {
@@ -23,5 +30,7 @@ module.exports = {
   getAll,
   getTask,
   updateTask,
-  deleteTask
+  deleteTask,
+  deleteBoardTasks,
+  updateUserTasks
 };

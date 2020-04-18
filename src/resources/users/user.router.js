@@ -2,6 +2,7 @@ const router = require('express').Router();
 const User = require('./user.model');
 const usersService = require('./user.service');
 const { catchError } = require('../../common/utils');
+const createError = require('http-errors');
 
 // password exclusion from response is implemented by mongodb projection
 router.route('/').get(
@@ -12,9 +13,12 @@ router.route('/').get(
 );
 router.get(
   '/:id',
-  catchError(async (req, res) => {
+  catchError(async (req, res, next) => {
     const user = await usersService.findUser(req.params.id);
-    return res.json(user);
+    if (user) {
+      return res.json(user);
+    }
+    next(createError(404));
   })
 );
 router.post(
