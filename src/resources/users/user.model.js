@@ -29,8 +29,8 @@ userSchema.method('toJSON', function toJson() {
 userSchema.post(
   'deleteOne',
   { document: true, query: false },
-  function updateTasks() {
-    taskService.updateUserTasks(this._id);
+  async function updateTasks() {
+    await taskService.updateUserTasks(this._id);
   }
 );
 
