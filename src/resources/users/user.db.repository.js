@@ -17,9 +17,9 @@ function updateUser(id, newUserData) {
 }
 async function deleteUser(id) {
   const user = await User.findById(id);
-  if (!user) {
-    throw createError(404, 'User was not found');
-  }
+  // if (!user) {
+  //   throw createError(404, 'User was not found');
+  // }
   return user.deleteOne();
 }
 module.exports = { getAll, createUser, findUser, updateUser, deleteUser };
