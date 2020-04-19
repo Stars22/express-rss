@@ -25,8 +25,8 @@ app.use('/', (req, res, next) => {
 });
 app.use(logger);
 app.use('/users', userRouter);
-app.use('/boards/:boardId/tasks', taskRouter);
 app.use('/boards', boardRouter);
+app.use('/boards/:boardId/tasks', taskRouter);
 app.use((req, res, next) => next(createError(404)));
 
 app.use((err, req, res, next) => {

@@ -21,8 +21,8 @@ function deleteBoardTasks(id) {
   return Task.deleteMany({ boardId: id }).exec();
 }
 
-function updateUserTasks(id) {
-  return Task.updateMany({ userId: id }, { userId: null }).exec();
+async function updateUserTasks(id) {
+  return await Task.updateMany({ userId: id }, { $set: { userId: null } });
 }
 
 module.exports = {
