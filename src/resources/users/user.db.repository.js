@@ -22,4 +22,14 @@ async function deleteUser(id) {
   }
   throw createError(404, 'User was not found');
 }
-module.exports = { getAll, createUser, findUser, updateUser, deleteUser };
+function findUserByLogin(login) {
+  return User.findOne({ login });
+}
+module.exports = {
+  getAll,
+  createUser,
+  findUser,
+  updateUser,
+  deleteUser,
+  findUserByLogin
+};

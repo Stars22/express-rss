@@ -12,5 +12,13 @@ const findUser = id => {
 };
 const deleteUser = id => usersRepo.deleteUser(id);
 const updateUser = (id, userData) => usersRepo.updateUser(id, userData);
+const findUserByLogin = login => usersRepo.findUserByLogin(login);
 
-module.exports = { getAll, createUser, findUser, deleteUser, updateUser };
+module.exports = {
+  getAll,
+  createUser,
+  findUser,
+  deleteUser,
+  updateUser,
+  findUserByLogin
+};

@@ -11,7 +11,7 @@ const userSchema = new Schema(
       default: uuid
     },
     name: String,
-    login: String,
+    login: { type: String, unique: true },
     password: String
   },
   { versionKey: false }
