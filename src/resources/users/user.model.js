@@ -2,6 +2,7 @@ const uuid = require('uuid');
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 const taskService = require('../tasks/task.service');
+const bcrypt = require('bcryptjs');
 
 const userSchema = new Schema(
   {
@@ -33,6 +34,11 @@ userSchema.post(
     await taskService.updateUserTasks(this._id);
   }
 );
+userSchema.pre('save', async function save(next) {
+  // this = user doc
+  this.password = await bcrypt.hash(this.password, 2);
+  next();
+});
 
 const User = mongoose.model('User', userSchema);
 
