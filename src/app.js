@@ -7,6 +7,7 @@ const boardRouter = require('./resources/boards/board.router');
 const taskRouter = require('./resources/tasks/task.router');
 const loginRouter = require('./resources/auth/login.router');
 const createError = require('http-errors');
+const authMiddleware = require('./resources/auth/auth.middleware');
 const { logger, logError, logRejection } = require('../logs/config');
 
 const app = express();
@@ -26,8 +27,8 @@ app.use('/', (req, res, next) => {
 });
 app.use(logger);
 app.use('/login', loginRouter);
-app.use('/users', userRouter);
-app.use('/boards', boardRouter);
+app.use('/users', authMiddleware, userRouter);
+app.use('/boards', authMiddleware, boardRouter);
 app.use('/boards/:boardId/tasks', taskRouter);
 app.use((req, res, next) => next(createError(404)));
 

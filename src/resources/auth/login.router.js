@@ -5,11 +5,9 @@ router.post(
   '/',
   catchError(async (req, res) => {
     const { login, password } = req.body;
-    await authoriseUser(login, password);
-    const token = await generateUserToken({ login });
-    res
-      .set('Authorization', `Bearer ${token}`)
-      .json({ message: 'Hello my friend' });
+    const user = await authoriseUser(login, password);
+    const token = await generateUserToken({ login, userId: user._id });
+    res.set('Authorization', `Bearer ${token}`).json({ token });
   })
 );
 module.exports = router;

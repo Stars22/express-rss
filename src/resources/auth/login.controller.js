@@ -8,6 +8,7 @@ async function authoriseUser(login, password) {
   if (!user) throw createError(403);
   const isMatch = await bcrypt.compare(password, user.password);
   if (!isMatch) throw createError(403);
+  return user;
 }
 function generateUserToken(payload, expiration = 3600) {
   return jwt.sign(payload, process.env.JWT_SECRET_KEY, {
