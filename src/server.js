@@ -1,11 +1,13 @@
 const { PORT } = require('./common/config');
 const app = require('./app');
 const mongoose = require('mongoose');
+const userService = require('../src/resources/users/user.service');
 require('dotenv').config();
 mongoose
   .connect(process.env.MONGO_CONNECTION_STRING, {
     useNewUrlParser: true,
-    useUnifiedTopology: true
+    useUnifiedTopology: true,
+    useCreateIndex: true
   })
   .then(() => {
     mongoose.connection.db.listCollections().toArray((err, names) => {
@@ -17,6 +19,7 @@ mongoose
             await mongoose.connection.collections[collection.name].drop()
         );
       }
+      userService.createUser('admin', 'admin', 'admin');
       app.listen(PORT, () =>
         console.log(`App is running on http://localhost:${PORT}`)
       );
