@@ -1,0 +1,75 @@
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"message":"   cannot perform operation: a background operation is currently running for collection 5d2b15d6c56c98d5cc43803e_rss.users","level":"error"}
+{"message":"   E11000 duplicate key error collection: rss.users index: login_1 dup key: { login: \"admin\" }","level":"error"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"message":"   Error message: wrong password. Status 403","level":"error"}
+{"message":"   Error message: wrong password. Status 403","level":"error"}
+{"message":"   Error message: wrong password. Status 403","level":"error"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"message":"   cannot perform operation: a background operation is currently running for collection 5d2b15d6c56c98d5cc43803e_rss.users","level":"error"}
+{"message":"   E11000 duplicate key error collection: rss.users index: login_1 dup key: { login: \"admin\" }","level":"error"}
+{"message":"   bcrypt is not a function","level":"error"}
+{"message":"   bcrypt is not a function","level":"error"}
+{"message":"   Cannot create field 'token' in element {tokens: [ { _id: ObjectId('5ea71f995a8210027cf45d51'), token: \"6c6a2cdf-a6e2-4e6c-8857-312ea8af551d\", createdAt: new Date(1588010905551) }, { _id: ObjectId('5ea71f9a5a8210027cf45d52'), token: \"76954720-7010-4b5d-a653-cfd6e37a6f7a\", createdAt: new Date(1588010906336) }, { _id: ObjectId('5ea71f9b5a8210027cf45d53'), token: \"cba188a1-d792-43fc-98a7-db1f8d90f4a1\", createdAt: new Date(1588010907070) } ]}","level":"error"}
+{"message":"   res is not defined","level":"error"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status 500","level":"error"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status 500","level":"error"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status 500","level":"error"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is null.. Status 500","level":"error"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status 500","level":"error"}
+{"message":"   Error message: User was not found. Status 404","level":"error"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status 500","level":"error"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status 500","level":"error"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status 500","level":"error"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status 500","level":"error"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is null.. Status 500","level":"error"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status 500","level":"error"}
+{"message":"   Error message: User was not found. Status 404","level":"error"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status 500","level":"error"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status 500","level":"error"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status 500","level":"error"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status 500","level":"error"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is null.. Status 500","level":"error"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status 500","level":"error"}
+{"message":"   Error message: User was not found. Status 404","level":"error"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status 500","level":"error"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}

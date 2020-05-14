@@ -1,8 +1,10 @@
 const usersRepo = require('./user.db.repository');
 
 const getAll = () => usersRepo.getAll();
-const createUser = (name, login, password) =>
+const createUser = async (name, login, password) => {
+  // const hashedPassword = await bcrypt.hash(password, 2);
   usersRepo.createUser(name, login, password);
+};
 const findUser = id => {
   const user = usersRepo.findUser(id);
   if (!user) {

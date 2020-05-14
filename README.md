@@ -1,4 +1,4 @@
-# RS School REST service
+# Express rest service
 
 ## Prerequisites
 

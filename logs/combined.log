@@ -1,0 +1,430 @@
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"message":"   cannot perform operation: a background operation is currently running for collection 5d2b15d6c56c98d5cc43803e_rss.users","level":"error"}
+{"message":"   E11000 duplicate key error collection: rss.users index: login_1 dup key: { login: \"admin\" }","level":"error"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: wrong password. Status 403","level":"error"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: wrong password. Status 403","level":"error"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: wrong password. Status 403","level":"error"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"message":"   cannot perform operation: a background operation is currently running for collection 5d2b15d6c56c98d5cc43803e_rss.users","level":"error"}
+{"message":"   E11000 duplicate key error collection: rss.users index: login_1 dup key: { login: \"admin\" }","level":"error"}
+{"message":"   bcrypt is not a function","level":"error"}
+{"message":"   bcrypt is not a function","level":"error"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login/refresh\", \"body\": \"{\"userId\":\"95fac59d-b602-41b0-8d75-10fcec04ee96\",\"refreshToken\":\"67d2c147-4a51-4fd1-a992-8b666cd53dd7\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login/refresh\", \"body\": \"{\"userId\":\"95fac59d-b602-41b0-8d75-10fcec04ee96\",\"refreshToken\":\"67d2c147-4a51-4fd1-a992-8b666cd53dd7\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login/refresh\", \"body\": \"{\"userId\":\"95fac59d-b602-41b0-8d75-10fcec04ee96\",\"refreshToken\":\"67d2c147-4a51-4fd1-a992-8b666cd53dd7\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login/refresh\", \"body\": \"{\"userId\":\"95fac59d-b602-41b0-8d75-10fcec04ee96\",\"refreshToken\":\"67d2c147-4a51-4fd1-a992-8b666cd53dd7\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login/refresh\", \"body\": \"{\"userId\":\"576c6d77-9ddd-43dd-bad2-5dc5db44f549\",\"refreshToken\":\"f3d23877-36c3-4617-a73a-031b46bdcf60\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"message":"   Cannot create field 'token' in element {tokens: [ { _id: ObjectId('5ea71f995a8210027cf45d51'), token: \"6c6a2cdf-a6e2-4e6c-8857-312ea8af551d\", createdAt: new Date(1588010905551) }, { _id: ObjectId('5ea71f9a5a8210027cf45d52'), token: \"76954720-7010-4b5d-a653-cfd6e37a6f7a\", createdAt: new Date(1588010906336) }, { _id: ObjectId('5ea71f9b5a8210027cf45d53'), token: \"cba188a1-d792-43fc-98a7-db1f8d90f4a1\", createdAt: new Date(1588010907070) } ]}","level":"error"}
+{"level":"info","message":"    {\"url\": \"/login/refresh\", \"body\": \"{\"userId\":\"2d7bd0f0-83b1-4ef2-9812-c31b43fab576\",\"refreshToken\":\"6c6a2cdf-a6e2-4e6c-8857-312ea8af551d\"}\", \"query\": \"{}\"}\n"}
+{"message":"   res is not defined","level":"error"}
+{"level":"info","message":"    {\"url\": \"/login/refresh\", \"body\": \"{\"userId\":\"2d7bd0f0-83b1-4ef2-9812-c31b43fab576\",\"refreshToken\":\"6c6a2cdf-a6e2-4e6c-8857-312ea8af551d\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login/refresh\", \"body\": \"{\"userId\":\"2d7bd0f0-83b1-4ef2-9812-c31b43fab576\",\"refreshToken\":\"6c6a2cdf-a6e2-4e6c-8857-312ea8af551d\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login/refresh\", \"body\": \"{\"userId\":\"20cb7fe4-e01d-4481-a36b-22f7fe693eb5\",\"refreshToken\":\"62bb1365-7631-4021-a174-de7c9aee812f\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login/refresh\", \"body\": \"{\"userId\":\"20cb7fe4-e01d-4481-a36b-22f7fe693eb5\",\"refreshToken\":\"62bb1365-7631-4021-a174-de7c9aee812f\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login/refresh\", \"body\": \"{\"userId\":\"c7515a56-a9bc-48d7-8bd8-9a1e6937fd40\",\"refreshToken\":\"4bb43b13-48d9-4f8d-9171-c792dfec16d7\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login/refresh\", \"body\": \"{\"userId\":\"3d03bbe8-e5ba-4814-aafd-f26e2bc0666c\",\"refreshToken\":\"3ed3ab9c-90b7-4cad-a09f-8279689c1e65\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login/refresh\", \"body\": \"{\"userId\":\"4fa28269-2a58-4204-8aa5-8f3ed88e6ed9\",\"refreshToken\":\"d2c425a6-164b-424d-9618-e1667f28e3bf\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login/refresh\", \"body\": \"{\"userId\":\"4fa28269-2a58-4204-8aa5-8f3ed88e6ed9\",\"refreshToken\":\"d2rrh-164b-424d-9618-e1667f28e3bf\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login/refresh\", \"body\": \"{\"userId\":\"4fa28269-2a58-4204-8aa5-8f3ed88e6ed9\",\"refreshToken\":\"8bbf5ff4-e7e7-4f53-89a5-0e34a2c5279f\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login/refresh\", \"body\": \"{\"userId\":\"b570dd62-8d37-4c51-9bae-c62b2ca620b2\",\"refreshToken\":\"c89367db-f2d0-4465-baa7-82f6a6504e4c\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login/refresh\", \"body\": \"{\"userId\":\"e4ffc633-d8ff-4500-b6c1-c1807dfdfd74\",\"refreshToken\":\"357d3d32-dacb-43c0-8b8b-8e64a49ca6da\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status 500","level":"error"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status 500","level":"error"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/ed572c8b-ce84-44b9-bfc5-6777c8ff2338/tasks\", \"body\": \"{\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status 500","level":"error"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/ed572c8b-ce84-44b9-bfc5-6777c8ff2338/tasks\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/ed572c8b-ce84-44b9-bfc5-6777c8ff2338\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is null.. Status 500","level":"error"}
+{"level":"info","message":"    {\"url\": \"/users/undefined\", \"body\": \"{\"name\":\"Autotest updated TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/ed572c8b-ce84-44b9-bfc5-6777c8ff2338/tasks\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status 500","level":"error"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/ed572c8b-ce84-44b9-bfc5-6777c8ff2338/tasks/df54b718-ecdf-45d5-9b85-2d096e4e8c93\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: User was not found. Status 404","level":"error"}
+{"level":"info","message":"    {\"url\": \"/users/undefined\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status 500","level":"error"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/ed572c8b-ce84-44b9-bfc5-6777c8ff2338/tasks\", \"body\": \"{\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/f27cd0f1-6ae9-498d-8b60-6eefebe08473\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/ed572c8b-ce84-44b9-bfc5-6777c8ff2338/tasks/7daccc22-ffe3-4ad8-b76c-fbae5f9d0359\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/ed572c8b-ce84-44b9-bfc5-6777c8ff2338/tasks\", \"body\": \"{\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/64997264-e7bd-47b5-a99f-bb6f0f6ad979\", \"body\": \"{\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}],\"title\":\"Autotest updated board\",\"id\":\"64997264-e7bd-47b5-a99f-bb6f0f6ad979\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/64997264-e7bd-47b5-a99f-bb6f0f6ad979\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/ed572c8b-ce84-44b9-bfc5-6777c8ff2338/tasks/8c65b76f-cdfa-4466-9e9c-a572b257d5bd\", \"body\": \"{\"title\":\"Autotest updated task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":\"ed572c8b-ce84-44b9-bfc5-6777c8ff2338\",\"columnId\":null,\"id\":\"8c65b76f-cdfa-4466-9e9c-a572b257d5bd\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/ed572c8b-ce84-44b9-bfc5-6777c8ff2338/tasks/8c65b76f-cdfa-4466-9e9c-a572b257d5bd\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/64997264-e7bd-47b5-a99f-bb6f0f6ad979\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/ed572c8b-ce84-44b9-bfc5-6777c8ff2338/tasks/df54b718-ecdf-45d5-9b85-2d096e4e8c93\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/ed572c8b-ce84-44b9-bfc5-6777c8ff2338/tasks/df54b718-ecdf-45d5-9b85-2d096e4e8c93\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/9127d8e3-f50f-471f-9e77-c3fa94f9a13c\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"level":"info","message":"    {\"url\": \"/boards/ed572c8b-ce84-44b9-bfc5-6777c8ff2338/tasks/df54b718-ecdf-45d5-9b85-2d096e4e8c93\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users/123\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users/12345\", \"body\": \"{\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"level":"info","message":"    {\"url\": \"/boards/9127d8e3-f50f-471f-9e77-c3fa94f9a13c\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users/12345\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/ed572c8b-ce84-44b9-bfc5-6777c8ff2338\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/adc461f7-90d8-457f-974d-fe67dd6446d0/tasks\", \"body\": \"{\"title\":\"Task #2\",\"order\":2,\"description\":\"Lorem ipsum\",\"boardId\":\"adc461f7-90d8-457f-974d-fe67dd6446d0\",\"userId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/adc461f7-90d8-457f-974d-fe67dd6446d0/tasks\", \"body\": \"{\"title\":\"Task #4\",\"order\":4,\"description\":\"Lorem ipsum\",\"boardId\":\"adc461f7-90d8-457f-974d-fe67dd6446d0\",\"userId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/adc461f7-90d8-457f-974d-fe67dd6446d0/tasks\", \"body\": \"{\"title\":\"Task #1\",\"order\":1,\"description\":\"Lorem ipsum\",\"boardId\":\"adc461f7-90d8-457f-974d-fe67dd6446d0\",\"userId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/adc461f7-90d8-457f-974d-fe67dd6446d0/tasks\", \"body\": \"{\"title\":\"Task #3\",\"order\":3,\"description\":\"Lorem ipsum\",\"boardId\":\"adc461f7-90d8-457f-974d-fe67dd6446d0\",\"userId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/adc461f7-90d8-457f-974d-fe67dd6446d0/tasks\", \"body\": \"{\"title\":\"Task #5\",\"order\":5,\"description\":\"Lorem ipsum\",\"boardId\":\"adc461f7-90d8-457f-974d-fe67dd6446d0\",\"userId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/adc461f7-90d8-457f-974d-fe67dd6446d0/tasks/20ce5cae-898a-41bc-8e20-a76cf8716b36\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/adc461f7-90d8-457f-974d-fe67dd6446d0/tasks/1c358c4c-538a-4c36-a393-3381437f1553\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/adc461f7-90d8-457f-974d-fe67dd6446d0/tasks/e4292588-1a96-40ed-8635-002ac030222c\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/adc461f7-90d8-457f-974d-fe67dd6446d0/tasks/1909a7eb-5186-42ac-9fb2-adb0fdb180be\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345/tasks\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/adc461f7-90d8-457f-974d-fe67dd6446d0/tasks/0f0c16cf-b8ff-490b-a80f-e1b9ca6d4487\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345/tasks/12345\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345/tasks\", \"body\": \"{\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345/tasks/12345\", \"body\": \"{\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345/tasks/12345\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/adc461f7-90d8-457f-974d-fe67dd6446d0\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"level":"info","message":"    {\"url\": \"/boards/adc461f7-90d8-457f-974d-fe67dd6446d0/tasks/1c358c4c-538a-4c36-a393-3381437f1553\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"level":"info","message":"    {\"url\": \"/boards/adc461f7-90d8-457f-974d-fe67dd6446d0/tasks/0f0c16cf-b8ff-490b-a80f-e1b9ca6d4487\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"level":"info","message":"    {\"url\": \"/boards/adc461f7-90d8-457f-974d-fe67dd6446d0/tasks/e4292588-1a96-40ed-8635-002ac030222c\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"level":"info","message":"    {\"url\": \"/boards/adc461f7-90d8-457f-974d-fe67dd6446d0/tasks/20ce5cae-898a-41bc-8e20-a76cf8716b36\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"level":"info","message":"    {\"url\": \"/boards/adc461f7-90d8-457f-974d-fe67dd6446d0/tasks/1909a7eb-5186-42ac-9fb2-adb0fdb180be\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/0df51233-153b-4376-bbe9-9888f588add3\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status 500","level":"error"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status 500","level":"error"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status 500","level":"error"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/764674e2-b28d-4d0e-aac2-bc702fc12b83/tasks\", \"body\": \"{\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/764674e2-b28d-4d0e-aac2-bc702fc12b83/tasks\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is null.. Status 500","level":"error"}
+{"level":"info","message":"    {\"url\": \"/users/undefined\", \"body\": \"{\"name\":\"Autotest updated TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status 500","level":"error"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/dbb15ba3-fb4d-415a-aa4d-9a1fffae2d43\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/764674e2-b28d-4d0e-aac2-bc702fc12b83/tasks\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: User was not found. Status 404","level":"error"}
+{"level":"info","message":"    {\"url\": \"/users/undefined\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/764674e2-b28d-4d0e-aac2-bc702fc12b83/tasks/f8745702-5a91-4e3c-b729-f6c1980b5a73\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status 500","level":"error"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/764674e2-b28d-4d0e-aac2-bc702fc12b83/tasks\", \"body\": \"{\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/2643b3bf-eafe-4409-9d12-2fde5598f6ac\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/764674e2-b28d-4d0e-aac2-bc702fc12b83/tasks/3b0a96be-f0b8-408f-b8e7-26a50a7bd321\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/764674e2-b28d-4d0e-aac2-bc702fc12b83/tasks\", \"body\": \"{\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/0af67e14-da10-47d2-b2a8-24999872237a\", \"body\": \"{\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}],\"title\":\"Autotest updated board\",\"id\":\"0af67e14-da10-47d2-b2a8-24999872237a\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users/123\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users/12345\", \"body\": \"{\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users/12345\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/764674e2-b28d-4d0e-aac2-bc702fc12b83/tasks/a5ebe896-627c-4765-86fc-c7e5db77d071\", \"body\": \"{\"title\":\"Autotest updated task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":\"764674e2-b28d-4d0e-aac2-bc702fc12b83\",\"columnId\":null,\"id\":\"a5ebe896-627c-4765-86fc-c7e5db77d071\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/0af67e14-da10-47d2-b2a8-24999872237a\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/764674e2-b28d-4d0e-aac2-bc702fc12b83/tasks/a5ebe896-627c-4765-86fc-c7e5db77d071\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/764674e2-b28d-4d0e-aac2-bc702fc12b83/tasks/f8745702-5a91-4e3c-b729-f6c1980b5a73\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/0af67e14-da10-47d2-b2a8-24999872237a\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/764674e2-b28d-4d0e-aac2-bc702fc12b83/tasks/f8745702-5a91-4e3c-b729-f6c1980b5a73\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"level":"info","message":"    {\"url\": \"/boards/764674e2-b28d-4d0e-aac2-bc702fc12b83/tasks/f8745702-5a91-4e3c-b729-f6c1980b5a73\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/3f06c7aa-fd31-4fba-aadd-5b144d448ab3\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/764674e2-b28d-4d0e-aac2-bc702fc12b83\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"level":"info","message":"    {\"url\": \"/boards/3f06c7aa-fd31-4fba-aadd-5b144d448ab3\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345/tasks\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/4896d368-2ffe-4b5d-b8ff-29d3655f3a3d/tasks\", \"body\": \"{\"title\":\"Task #2\",\"order\":2,\"description\":\"Lorem ipsum\",\"boardId\":\"4896d368-2ffe-4b5d-b8ff-29d3655f3a3d\",\"userId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345/tasks/12345\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345/tasks\", \"body\": \"{\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345/tasks/12345\", \"body\": \"{\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345/tasks/12345\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/4896d368-2ffe-4b5d-b8ff-29d3655f3a3d/tasks\", \"body\": \"{\"title\":\"Task #1\",\"order\":1,\"description\":\"Lorem ipsum\",\"boardId\":\"4896d368-2ffe-4b5d-b8ff-29d3655f3a3d\",\"userId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/4896d368-2ffe-4b5d-b8ff-29d3655f3a3d/tasks\", \"body\": \"{\"title\":\"Task #3\",\"order\":3,\"description\":\"Lorem ipsum\",\"boardId\":\"4896d368-2ffe-4b5d-b8ff-29d3655f3a3d\",\"userId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/4896d368-2ffe-4b5d-b8ff-29d3655f3a3d/tasks\", \"body\": \"{\"title\":\"Task #4\",\"order\":4,\"description\":\"Lorem ipsum\",\"boardId\":\"4896d368-2ffe-4b5d-b8ff-29d3655f3a3d\",\"userId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/4896d368-2ffe-4b5d-b8ff-29d3655f3a3d/tasks\", \"body\": \"{\"title\":\"Task #5\",\"order\":5,\"description\":\"Lorem ipsum\",\"boardId\":\"4896d368-2ffe-4b5d-b8ff-29d3655f3a3d\",\"userId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/4896d368-2ffe-4b5d-b8ff-29d3655f3a3d/tasks/658b979f-02de-4523-a05c-2b7da197eeaf\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/4896d368-2ffe-4b5d-b8ff-29d3655f3a3d/tasks/6b058b44-01f2-4524-989a-7f7bcf856ce4\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/4896d368-2ffe-4b5d-b8ff-29d3655f3a3d/tasks/050d7bb1-8536-4853-9cf1-a76e35a9a970\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/4896d368-2ffe-4b5d-b8ff-29d3655f3a3d/tasks/313f0959-2127-4c30-b726-d23dc70f3269\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/4896d368-2ffe-4b5d-b8ff-29d3655f3a3d/tasks/98bb5ae7-1cd5-47d2-a05b-dd235bae6646\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/4896d368-2ffe-4b5d-b8ff-29d3655f3a3d\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"level":"info","message":"    {\"url\": \"/boards/4896d368-2ffe-4b5d-b8ff-29d3655f3a3d/tasks/050d7bb1-8536-4853-9cf1-a76e35a9a970\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"level":"info","message":"    {\"url\": \"/boards/4896d368-2ffe-4b5d-b8ff-29d3655f3a3d/tasks/6b058b44-01f2-4524-989a-7f7bcf856ce4\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"level":"info","message":"    {\"url\": \"/boards/4896d368-2ffe-4b5d-b8ff-29d3655f3a3d/tasks/313f0959-2127-4c30-b726-d23dc70f3269\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"level":"info","message":"    {\"url\": \"/boards/4896d368-2ffe-4b5d-b8ff-29d3655f3a3d/tasks/658b979f-02de-4523-a05c-2b7da197eeaf\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"level":"info","message":"    {\"url\": \"/boards/4896d368-2ffe-4b5d-b8ff-29d3655f3a3d/tasks/98bb5ae7-1cd5-47d2-a05b-dd235bae6646\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/dbb15ba3-fb4d-415a-aa4d-9a1fffae2d43\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status 500","level":"error"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status 500","level":"error"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status 500","level":"error"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/69237b47-bc36-49ed-983d-15ab21851be7/tasks\", \"body\": \"{\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/69237b47-bc36-49ed-983d-15ab21851be7/tasks\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is null.. Status 500","level":"error"}
+{"level":"info","message":"    {\"url\": \"/users/undefined\", \"body\": \"{\"name\":\"Autotest updated TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status 500","level":"error"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/69237b47-bc36-49ed-983d-15ab21851be7\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/69237b47-bc36-49ed-983d-15ab21851be7/tasks\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: User was not found. Status 404","level":"error"}
+{"level":"info","message":"    {\"url\": \"/users/undefined\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/69237b47-bc36-49ed-983d-15ab21851be7/tasks/e83c1888-a9a6-453b-b2a4-f418c6e351d1\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Cannot destructure property 'id' of 'user' as it is undefined.. Status 500","level":"error"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/69237b47-bc36-49ed-983d-15ab21851be7/tasks\", \"body\": \"{\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/44d1c5e7-dbc0-43ba-96d6-7cf5d0e88ed4\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/69237b47-bc36-49ed-983d-15ab21851be7/tasks/c2eb83af-cb2e-4d2d-b079-46c23efa3916\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/69237b47-bc36-49ed-983d-15ab21851be7/tasks\", \"body\": \"{\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345/tasks\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345/tasks/12345\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345/tasks\", \"body\": \"{\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345/tasks/12345\", \"body\": \"{\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345/tasks/12345\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/b6d4d62a-64d3-4316-a3c6-b16d8c51a0d9\", \"body\": \"{\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}],\"title\":\"Autotest updated board\",\"id\":\"b6d4d62a-64d3-4316-a3c6-b16d8c51a0d9\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/b6d4d62a-64d3-4316-a3c6-b16d8c51a0d9\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/69237b47-bc36-49ed-983d-15ab21851be7/tasks/58684e96-b894-4ee3-a3e8-b24f0f69592a\", \"body\": \"{\"title\":\"Autotest updated task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":\"69237b47-bc36-49ed-983d-15ab21851be7\",\"columnId\":null,\"id\":\"58684e96-b894-4ee3-a3e8-b24f0f69592a\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/b6d4d62a-64d3-4316-a3c6-b16d8c51a0d9\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/69237b47-bc36-49ed-983d-15ab21851be7/tasks/58684e96-b894-4ee3-a3e8-b24f0f69592a\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users/123\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users/12345\", \"body\": \"{\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users/12345\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/69237b47-bc36-49ed-983d-15ab21851be7/tasks/e83c1888-a9a6-453b-b2a4-f418c6e351d1\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/69237b47-bc36-49ed-983d-15ab21851be7/tasks/e83c1888-a9a6-453b-b2a4-f418c6e351d1\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/496dc9d0-bd73-44f7-b68d-ebbcda5eef3a\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"level":"info","message":"    {\"url\": \"/boards/69237b47-bc36-49ed-983d-15ab21851be7/tasks/e83c1888-a9a6-453b-b2a4-f418c6e351d1\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"level":"info","message":"    {\"url\": \"/boards/496dc9d0-bd73-44f7-b68d-ebbcda5eef3a\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/69237b47-bc36-49ed-983d-15ab21851be7\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/4874efec-ef5a-410f-b624-91e64d2969ab/tasks\", \"body\": \"{\"title\":\"Task #1\",\"order\":1,\"description\":\"Lorem ipsum\",\"boardId\":\"4874efec-ef5a-410f-b624-91e64d2969ab\",\"userId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/4874efec-ef5a-410f-b624-91e64d2969ab/tasks\", \"body\": \"{\"title\":\"Task #2\",\"order\":2,\"description\":\"Lorem ipsum\",\"boardId\":\"4874efec-ef5a-410f-b624-91e64d2969ab\",\"userId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/4874efec-ef5a-410f-b624-91e64d2969ab/tasks\", \"body\": \"{\"title\":\"Task #3\",\"order\":3,\"description\":\"Lorem ipsum\",\"boardId\":\"4874efec-ef5a-410f-b624-91e64d2969ab\",\"userId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/4874efec-ef5a-410f-b624-91e64d2969ab/tasks\", \"body\": \"{\"title\":\"Task #4\",\"order\":4,\"description\":\"Lorem ipsum\",\"boardId\":\"4874efec-ef5a-410f-b624-91e64d2969ab\",\"userId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/4874efec-ef5a-410f-b624-91e64d2969ab/tasks\", \"body\": \"{\"title\":\"Task #5\",\"order\":5,\"description\":\"Lorem ipsum\",\"boardId\":\"4874efec-ef5a-410f-b624-91e64d2969ab\",\"userId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/4874efec-ef5a-410f-b624-91e64d2969ab/tasks/4701fa5c-d738-4ab0-87ac-0267e415fedc\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/4874efec-ef5a-410f-b624-91e64d2969ab/tasks/b2a368e9-1eae-4849-81e5-051d333d006f\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/4874efec-ef5a-410f-b624-91e64d2969ab/tasks/bf567a2d-019b-4a90-9e04-135a6cd7677f\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/4874efec-ef5a-410f-b624-91e64d2969ab/tasks/bd829fcd-db42-4d6e-ae1d-4c4f271b3976\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/4874efec-ef5a-410f-b624-91e64d2969ab/tasks/61efe612-80e4-448b-af97-2daea93f957a\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/4874efec-ef5a-410f-b624-91e64d2969ab\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"level":"info","message":"    {\"url\": \"/boards/4874efec-ef5a-410f-b624-91e64d2969ab/tasks/4701fa5c-d738-4ab0-87ac-0267e415fedc\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"level":"info","message":"    {\"url\": \"/boards/4874efec-ef5a-410f-b624-91e64d2969ab/tasks/61efe612-80e4-448b-af97-2daea93f957a\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"level":"info","message":"    {\"url\": \"/boards/4874efec-ef5a-410f-b624-91e64d2969ab/tasks/bf567a2d-019b-4a90-9e04-135a6cd7677f\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"level":"info","message":"    {\"url\": \"/boards/4874efec-ef5a-410f-b624-91e64d2969ab/tasks/bd829fcd-db42-4d6e-ae1d-4c4f271b3976\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Not Found. Status 404","level":"error"}
+{"level":"info","message":"    {\"url\": \"/boards/4874efec-ef5a-410f-b624-91e64d2969ab/tasks/b2a368e9-1eae-4849-81e5-051d333d006f\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/dcdddaef-8f51-4645-a406-7bdde46db1a4\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users/undefined\", \"body\": \"{\"name\":\"Autotest updated TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users/undefined\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/undefined/tasks\", \"body\": \"{\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/undefined/tasks\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/undefined\", \"body\": \"{\"message\":\"please login to continue\",\"title\":\"Autotest updated board\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/undefined/tasks\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/undefined/tasks\", \"body\": \"{\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/undefined/tasks\", \"body\": \"{\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/undefined\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/undefined/tasks/undefined\", \"body\": \"{\"message\":\"please login to continue\",\"title\":\"Autotest updated task\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/undefined/tasks/undefined\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/undefined\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users/123\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users\", \"body\": \"{\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users/12345\", \"body\": \"{\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/users/12345\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345/tasks\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345/tasks/12345\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345/tasks\", \"body\": \"{\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345/tasks/12345\", \"body\": \"{\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345/tasks/12345\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345\", \"body\": \"{\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/boards/12345\", \"body\": \"{}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login/refresh\", \"body\": \"{\"userId\":\"599fdf54-7270-4220-a0e2-666c9ec4899a\",\"refreshToken\":\"25403391-44ff-4daa-983f-62d4052819c8\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login/refresh\", \"body\": \"{\"userId\":\"599fdf54-7270-4220-a0e2-666c9ec4899a\",\"refreshToken\":\"47eebd56-fad7-4b8c-8aea-062bfc48e12e\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"message":"   Error message: Forbidden. Status 403","level":"error"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}
+{"level":"info","message":"    {\"url\": \"/login\", \"body\": \"{\"login\":\"admin\",\"password\":\"admin\"}\", \"query\": \"{}\"}\n"}

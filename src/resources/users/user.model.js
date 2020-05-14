@@ -12,7 +12,8 @@ const userSchema = new Schema(
     },
     name: String,
     login: { type: String, unique: true },
-    password: String
+    password: String,
+    tokens: [{ token: String, createdAt: { type: Date, default: Date.now } }]
   },
   { versionKey: false }
 );
@@ -36,7 +37,9 @@ userSchema.post(
 );
 userSchema.pre('save', async function save(next) {
   // this = user doc
-  this.password = await bcrypt.hash(this.password, 2);
+  if (this.isModified('password')) {
+    this.password = await bcrypt.hash(this.password, 2);
+  }
   next();
 });
 
